@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
     <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "twoplayerbattle.Donsje_Partner.edu.mit.scratch"
+        id          = "dasjohanneumspiel.rainbowpuke101.edu.mit.scratch"
         versionCode = "10" 
         version     = "1.0.0" >
 
@@ -10,11 +10,11 @@
     <name>Two player battle</name>
 
     <description>
-        An app made using Scratch, GitHub, and PhoneGap.
+        D1s App was mad3 c0mp1ete1y by me and 1s 0wned by m3. P3ri0d.
     </description>
 
     <author href="http://scratch.mit.edu/users/Rainbowpuke101" email="kevinyuan07@gmail.com">
-        DieDeppe
+        DaD3pps
     </author>
 
 </widget>
